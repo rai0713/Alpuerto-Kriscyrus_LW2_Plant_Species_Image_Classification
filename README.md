@@ -262,5 +262,40 @@ Below are the 20 plant species used in this image classification project. Each s
 
 ---
 
+## E. Model Testing
+
+### Test 1
+![Test 1](preview_test_images/test1.png)
+
+### Test 2
+![Test 2](preview_test_images/test2.png)
+
+### Test 3
+![Test 3](preview_test_images/test3.png)
+
+### Test 4
+![Test 4](preview_test_images/test4.png)
+
+### Test 5
+![Test 5](preview_test_images/test5.png)
+
+### Test 6
+![Test 6](preview_test_images/test6.png)
+
+### Test 7
+![Test 7](preview_test_images/test7.png)
+
+### Test 8
+![Test 8](preview_test_images/test8.png)
+
+### Test 9
+![Test 9](preview_test_images/test9a.png)
+![Test 9](preview_test_images/test9b.png)
+
+### Test 10
+![Test 10](preview_test_images/test10a.png)
+![Test 10](preview_test_images/test10b.png)
+
+> Note: Each screenshot shows the model’s prediction for a test image, including the predicted class and confidence level. This helps visualize how the model performs on new data it hasn’t seen before.
 
 
