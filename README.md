@@ -1,4 +1,4 @@
-<img width="298" height="566" alt="con_mat" src="https://github.com/user-attachments/assets/70638cb1-c486-494a-bfc7-849cd5c38c5c" /># Alpuerto-Kriscyrus_LW2_Plant_Species_Image_Classification
+# Alpuerto-Kriscyrus_LW2_Plant_Species_Image_Classification
 
 ## A. Project Overview
 
