@@ -296,6 +296,33 @@ Below are the 20 plant species used in this image classification project. Each s
 ![Test 10](preview_test_images/test10a.png)
 ![Test 10](preview_test_images/test10b.png)
 
-> Note: Each screenshot shows the model’s prediction for a test image, including the predicted class and confidence level. This helps visualize how the model performs on new data it hasn’t seen before.
+---
+
+## Submission Checklist ✅
+
+- [x] **20 related plant species proposed**  
+  See [Section B: Plant Species Overview](#b-plant-species-overview) for details.
+
+- [x] **Minimum 250 images per species**  
+  Images are stored in the [`images/`](images/) folder.
+
+- [x] **Model trained using Teachable Machine**  
+  Training details are in [Section C: Model Training Details](#c-model-training-details).
+
+- [x] **Under-the-hood evaluation screenshots**  
+  Confusion matrix, per-class accuracy, and overall accuracy are in [Section D: Model Evaluation](#d-model-evaluation).
+
+- [x] **10 preview testing screenshots**  
+  See [Section E: Model Testing](#e-model-testing) for all screenshots.
+
+- [x] **Model exported and saved**  
+  Exported model files are in the [`model/`](model/) folder.
+
+- [x] **GitHub repository with complete README.md**  
+  You are currently viewing it here! ✅
+
+- [x] **All files and screenshots uploaded and documented**  
+  Check [`images/`](images/), [`model/`](model/), [`model_traiining_details/`](model_traiining_details/) and [`preview_text_images/`](preview_text_images/) folders for completeness.
+
 
 
