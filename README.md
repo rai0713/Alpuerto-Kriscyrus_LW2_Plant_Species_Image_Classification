@@ -212,7 +212,7 @@ Below are the 20 plant species used in this image classification project. Each s
 
 ---
 
-### 1. Passion Flower
+### 20. Passion Flower
 
 ![Passiflora](images/20_Passion_Flower_ch/00002_britannica_60ae11d09fd8.jpg)
 
