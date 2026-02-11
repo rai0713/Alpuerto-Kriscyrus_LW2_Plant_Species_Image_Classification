@@ -316,13 +316,13 @@ Below are the 20 plant species used in this image classification project. Each s
   See [Section E: Model Testing](#e-model-testing) for all screenshots.
 
 - [x] **Model exported and saved**  
-  Exported model files are in the [`model/`](model/) folder.
+  Exported model files are in the [`models/`](models/) folder.
 
 - [x] **GitHub repository with complete README.md**  
   You are currently viewing it here! ✅
 
 - [x] **All files and screenshots uploaded and documented**  
-  Check [`images/`](images/), [`model/`](model/), [`model_traiining_details/`](model_traiining_details/) and [`preview_text_images/`](preview_text_images/) folders for completeness.
+  Check [`images/`](images/), [`models/`](models/), [`model_traiining_details/`](model_traiining_details/) and [`preview_text_images/`](preview_text_images/) folders for completeness.
 
 
 
