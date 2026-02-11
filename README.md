@@ -24,7 +24,7 @@ Below are the 20 plant species used in this image classification project. Each s
 
 ### 1. Venus flytrap
 
-![Dionaea Muscipula](images\1_Dionaea_muscipula_ch\00001_picturethisa_f89f93e555b8.jpg)
+![Dionaea Muscipula](images/1_Dionaea_muscipula_ch/00001_picturethisa_f89f93e555b8.jpg)
 
 - **Common Name: Venus flytrap 
 - **Scientific Name: Dionaea Muscipula  
