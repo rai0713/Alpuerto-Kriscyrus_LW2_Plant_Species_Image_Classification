@@ -134,7 +134,7 @@ Below are the 20 plant species used in this image classification project. Each s
 
 ### 12. Portuguese Sundew
 
-![Drosophyllum lusitanicum](images/12_Drosophyllum_lusitanicum_Dewy_Pine_ch/00068_co_ef9484692efd.jpg")
+![Drosophyllum lusitanicum](images/12_Drosophyllum_lusitanicum_Dewy_Pine_ch/00068_co_ef9484692efd.jpg)
 
 - Common Name: Portuguese Sundew
 - Scientific Name: Drosophyllum lusitanicum
