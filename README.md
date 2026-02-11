@@ -102,122 +102,122 @@ Below are the 20 plant species used in this image classification project. Each s
 
 ---
 
-### 1. 
+### 9. Bladderwort
 
-![]()
+![Utricularia Vulgaris](images/9_Utricularia_vulgaris_ch/00003_minnesotawil_b167c08c3e80.jpg)
 
-- Common Name: 
-- Scientific Name: 
-- Description:
-
----
-
-### 1. 
-
-![]()
-
-- Common Name: 
-- Scientific Name: 
-- Description:
+- Common Name: Bladderwort
+- Scientific Name: Utricularia vulgaris
+- Description: Utricularia vulgaris, commonly known as the common bladderwort or greater bladderwort, is a rootless, free-floating aquatic carnivorous plant. Found in ponds and marshes, it features finely divided leaves dotted with tiny bladder-like traps that capture small aquatic organisms. It produces yellow, snapdragon-like flowers on stalks above the water. 
 
 ---
 
-### 1. 
+### 10. Powdery-strap Bromeliad
 
-![]()
+![Catopsis Berteroniana](images/10_Catopsis_berteronian_Carnivorous_Bromeliad_ch/00155_ebayimg_a925197e3af3.jpg)
 
-- Common Name: 
-- Scientific Name: 
-- Description:
-
----
-
-### 1. 
-
-![]()
-
-- Common Name: 
-- Scientific Name: 
-- Description:
+- Common Name: Powdery-strap Bromeliad
+- Scientific Name: Catopsis Berteroniana
+- Description: Catopsis Berteroniana is a unique species of bromeliad, often referred to as a powdery-strap bromeliad, powdery strap airplant, or lantern of the forest. It is notable for being one of the few bromeliads considered to be partially carnivorous. 
 
 ---
 
-### 1. 
+### 11. Rainbow Plant
 
-![]()
+![Byblis liniflora](images/11_Byblis_liniflora_ch/00005_curiousplant_f898452445b1.jpg)
 
-- Common Name: 
-- Scientific Name: 
-- Description:
-
----
-
-### 1. 
-
-![]()
-
-- Common Name: 
-- Scientific Name: 
-- Description:
+- Common Name: Rainbow Plant
+- Scientific Name: Byblis liniflora
+- Description: Byblis liniflora, commonly known as the Rainbow Plant, is a delicate, carnivorous plant native to northern Australia, Indonesia, and southern New Guinea. It is a member of the Byblidaceae family and is named for its ability to produce glistening, mucilage-covered leaves that sparkle in the sun. 
 
 ---
 
-### 1. 
+### 12. Portuguese Sundew
 
-![]()
+![Drosophyllum lusitanicum](images/12_Drosophyllum_lusitanicum_Dewy_Pine_ch/00068_co_ef9484692efd.jpg")
 
-- Common Name: 
-- Scientific Name: 
-- Description:
-
----
-
-### 1. 
-
-![]()
-
-- Common Name: 
-- Scientific Name: 
-- Description:
+- Common Name: Portuguese Sundew
+- Scientific Name: Drosophyllum lusitanicum
+- Description: Drosophyllum lusitanicum, commonly known as the Portuguese Sundew or Dewy Pine, is a unique, perennial, carnivorous plant native to the western Mediterranean region (Portugal, Spain, and Morocco). It is the only species in the genus Drosophyllum and the family Drosophyllaceae. 
 
 ---
 
-### 1. 
+### 13. Sanderson's bladderwort
 
-![]()
+![Utricularia sandersonii](images/13_Utricularia_sandersonii_ch/00003_org_3af6e5af0b8d.jpg)
 
-- Common Name: 
-- Scientific Name: 
-- Description:
-
----
-
-### 1. 
-
-![]()
-
-- Common Name: 
-- Scientific Name: 
-- Description:
+- Common Name: Sanderson's bladderwort
+- Scientific Name: Utricularia sandersonii
+- Description: Utricularia sandersonii is a popular species of carnivorous plant commonly known as Sanderson's bladderwort or, due to the unique shape of its flowers, the "rabbit ears" bladderwort. It is widely cultivated for its prolific, orchid-like blooms. 
 
 ---
 
-### 1. 
+### 14. Flycatcher Bush
 
-![]()
+![Roridula gorgonias](images/14_Roridula_gorgonias_Sticky_Bush_ch/00006_curiousplant_987638643ead.jpg)
 
-- Common Name: 
-- Scientific Name: 
-- Description:
+- Common Name: Flycatcher Bush
+- Scientific Name: Roridula gorgonias
+- Description: Roridula gorgonias (Flycatcher Bush or Dewstick) is a South African, protocarnivorous, woody shrublet (up to 1m+) found in Cape Fynbos. It possesses sticky, resin-covered, narrow leaves that trap insects but cannot digest them directly, instead relying on a mutualistic relationship with Pameridea assassin bugs to process nutrients. 
 
 ---
 
-### 1. 
+### 15. Notched Sundew
 
-![]()
+![Drosera schizandra](images/15_Drosera_schizandra_ch/00002_bigcommerce_a5a037ce8e09.jpg)
 
-- Common Name: 
-- Scientific Name: 
-- Description:
+- Common Name:  Notched Sundew
+- Scientific Name: Drosera schizandra
+- Description: Drosera schizandra is a rare, tropical, perennial carnivorous plant endemic to a single mountain range in Far North Queensland, Australia. It is a member of the "Three Sisters of Queensland" (or "Four Sisters" including D. buubugujin) along with D. adelae and D. prolifera, all of which are adapted to low-light, high-humidity rainforest understories. 
+
+---
+
+### 16. Cooper's Haworthia
+
+![Haworthia cooperi](images/16_Haworthia_cooperi_ch/00005_planetdesert_3f8d452b85d3.jpg)
+
+- Common Name: Cooper's Haworthia
+- Scientific Name: Haworthia cooperi
+- Description: Haworthia cooperi is a small, slow-growing, clump-forming succulent native to South Africa, widely known as Cooper's Haworthia, Window Succulent, or Crystal Plant. It is characterized by translucent, fleshy, pale green or bluish-green leaves with "windows" on the tips that allow light to enter, and it produces small white flowers in spring to summer. 
+
+---
+
+### 17. Baseball Plant
+
+![Euphorbia obesa](images/17_Euphorbia_obesa_ch/00008_webshopapp_023de600b3d3.jpg)
+
+- Common Name: Baseball Plant
+- Scientific Name: Euphorbia obesa
+- Description: Euphorbia obesa, commonly known as the baseball plant, living baseball, or sea urchin, is a rare, slow-growing, and spineless succulent from South Africa. It is highly prized for its perfectly spherical,, and later cylindrical, shape, featuring 8 ribs with mottled gray-green to purple-banded, plaid-like markings. 
+
+---
+
+### 18. Lotus Flower
+
+![Nelumbo nucifera](images/18_Lotus_flower_ch/00011_freeenglishs_a8116f8336f1.jpg)
+
+- Common Name: Lotus Flower
+- Scientific Name: Nelumbo nucifera
+- Description: Nelumbo nucifera, commonly known as the sacred lotus, Indian lotus, or Chinese water lily, is an aquatic perennial plant native to Asia and Australia. It is characterized by large, fragrant, white or pink flowers, and massive, hydrophobic, parasol-like leaves that rise above the water. It is widely cultivated for its edible seeds, roots, and leaves, and holds significant cultural, religious, and medicinal value. 
+
+---
+
+### 19. Swiss cheese plant
+
+![Monstera deliciosa](images/19_Monstera_deliciosa_ch/00049_plantandpot_c345eb7b1e0a.jpg)
+
+- Common Name: Swiss cheese plant
+- Scientific Name: Monstera deliciosa
+- Description: Monstera deliciosa, commonly known as the Swiss cheese plant, split-leaf philodendron, or fruit salad plant, is a popular, fast-growing tropical vine from the Araceae family. It is characterized by large, glossy, deep green, heart-shaped leaves that develop dramatic holes (fenestrations) and slits as they mature. 
+
+---
+
+### 1. Passion Flower
+
+![Passiflora](images/20_Passion_Flower_ch/00002_britannica_60ae11d09fd8.jpg)
+
+- Common Name: Passion Flower
+- Scientific Name: Passiflora
+- Description: Passiflora, commonly known as passion flower or passion vine, is a genus of over 500 species of flowering plants, mostly tendril-climbing vines in the family Passifloraceae. They are recognized for their intricate, complex flowers, and many species produce edible fruits known as passion fruit (e.g., P. edulis) or granadilla. 
 
 ---
