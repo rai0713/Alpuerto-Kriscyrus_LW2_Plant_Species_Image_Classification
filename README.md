@@ -298,6 +298,53 @@ Below are the 20 plant species used in this image classification project. Each s
 
 ---
 
+## Reflection Questions
+
+### 1. How did the number of images per class affect your model’s accuracy?
+
+Answer: Having more images per class generally improved the model’s accuracy. Classes with fewer images were more likely to be misclassified because the model had less data to learn from. For example, classes with 250–300 images performed better than classes with less than 200 images, which shows that having a balanced and sufficient dataset is important for training.
+
+---
+
+### 2. Which plant species were most commonly misclassified and why?
+
+Answer: Some plants with very similar appearances, like *Utricularia vulgaris* and *Utricularia sandersonii*, were more often misclassified. This is likely because the AI finds it hard to distinguish subtle differences when the images have similar colors, shapes, or backgrounds. Poor lighting or blurry images in some classes also contributed to misclassification.
+
+---
+
+### 3. How did changing the epochs, batch size, or learning rate affect the training results?
+
+Answer: 
+- **Epochs:** Increasing epochs generally allowed the model to learn better, but too many epochs could lead to overfitting.  
+- **Batch size:** Smaller batch sizes sometimes gave more stable learning, while larger batches made training faster but slightly less precise.  
+- **Learning rate:** A higher learning rate made the model learn faster but could skip optimal weights, while a lower learning rate was slower but more stable.  
+
+Adjusting these parameters helped me understand the balance between training time and accuracy.
+
+---
+
+### 4. What challenges did you encounter during dataset collection and labeling?
+
+Answer: 
+- Collecting enough images for each plant species was time-consuming.  
+- Ensuring consistent image quality and angles was difficult, especially for plants with small or similar features.  
+- Labeling errors were possible if plants looked similar or if I accidentally misfiled images into the wrong class.  
+
+These challenges highlighted the importance of a **clean and well-organized dataset**.
+
+---
+
+### 5. If you were to improve your model, what specific changes would you make and why?
+
+Answer:
+- Increase the number of images per class to at least 500 to improve accuracy.  
+- Take images under consistent lighting and background conditions to reduce misclassification.  
+- Augment the dataset using techniques like rotation, flipping, or zoom to make the model more robust.  
+- Experiment more with learning rate and batch size to optimize performance without overfitting.  
+- Possibly explore more advanced models or transfer learning to improve predictions for visually similar plants.
+
+---
+
 ## Submission Checklist ✅
 
 - [x] **20 related plant species proposed**  
