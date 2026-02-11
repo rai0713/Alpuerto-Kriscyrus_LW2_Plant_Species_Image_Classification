@@ -221,6 +221,7 @@ Below are the 20 plant species used in this image classification project. Each s
 - Description: Passiflora, commonly known as passion flower or passion vine, is a genus of over 500 species of flowering plants, mostly tendril-climbing vines in the family Passifloraceae. They are recognized for their intricate, complex flowers, and many species produce edible fruits known as passion fruit (e.g., P. edulis) or granadilla. 
 
 ---
+
 ## C. Model Training Details
 
 - **Epochs:** 50  
@@ -235,5 +236,31 @@ Below are the 20 plant species used in this image classification project. Each s
 - **Number of images per class:** 300  
   (Each plant species has 300 images in the dataset)
 
-![Passiflora](model_training_details/mdt_1.png)
+![model_training_details](model_training_details/mdt_1.png)
+
+---
+
+## D. Model Evaluation
+
+---
+
+### 1. Confusion Matrix
+
+![Confusion Matrix](model_eva/con_mat.png)
+
+---
+
+### 2. Accuracy per Class
+
+![Accuracy per Class](model_eva/apc.png)
+
+---
+
+### 3. Overall Model Accuracy
+
+![Overall Accuracy](model_eva/oma.png)
+
+---
+
+
 
