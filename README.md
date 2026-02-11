@@ -322,7 +322,7 @@ Below are the 20 plant species used in this image classification project. Each s
   You are currently viewing it here! ✅
 
 - [x] **All files and screenshots uploaded and documented**  
-  Check [`images/`](images/), [`models/`](models/), [`model_training_details/`](model_training_details/) and [`preview_text_images/`](preview_text_images/) folders for completeness.
+  Check [`images/`](images/), [`models/`](models/), [`model_training_details/`](model_training_details/) and [`preview_test_images/`](preview_test_images/) folders for completeness.
 
 
 
